@@ -29,3 +29,6 @@ To run the app:
 2. Open the project in Android Studio.
 3. Run the project on an Android emulator or physical device.
 
+1.2 [Downloading the APK](app-debug.apk) directly to your Android device and installing it.
+
+
