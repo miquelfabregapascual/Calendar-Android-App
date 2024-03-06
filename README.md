@@ -13,11 +13,13 @@ The app consists of two main activities:
 ### Main Activity
 
 The main activity serves as the entry point to the app. It welcomes users and provides a button to open the calendar activity.
+
 <img src="/Imatges/calendarMenu.png" alt="Calendar Menu" width="300"/>
 
 ### Calendar Activity
 
 In this activity, users can browse through a calendar view and select dates. The selected date is displayed, and users can save it by clicking the "Save Date" button.
+
 <img src="/Imatges/calndarLayout.png" alt="Calendar Layout" width="300"/>
 <img src="/Imatges/calendarSaveDate.png" alt="Calendar Save Date" width="300"/>
 
