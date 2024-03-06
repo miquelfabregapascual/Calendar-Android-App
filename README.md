@@ -21,6 +21,7 @@ The main activity serves as the entry point to the app. It welcomes users and pr
 In this activity, users can browse through a calendar view and select dates. The selected date is displayed, and users can save it by clicking the "Save Date" button.
 
 <img src="/Imatges/calndarLayout.png" alt="Calendar Layout" width="300"/>
+
 ![Calendar Layout](/Imatges/calendarSaveDate.png)
 
 ## How to Run:
